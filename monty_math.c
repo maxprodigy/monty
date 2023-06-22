@@ -63,6 +63,7 @@ void _mul(stack_t **stack, unsigned int line_number)
  * @stack: pointer to lists for monty stack
  * @line_number: number of line opcode occurs on
  */
+
 void _div(stack_t **stack, unsigned int line_number)
 {
 	int div = 0;
