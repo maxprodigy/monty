@@ -3,7 +3,7 @@
 /**
  * _sub - sub top of stack y second top stack
  * @stack: pointer to lists for monty stack
- * @line_number: number of line opcode occurs on
+ * @line_number: number of line of code
  */
 void _sub(stack_t **stack, unsigned int line_number)
 {
